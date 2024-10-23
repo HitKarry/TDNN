@@ -58,7 +58,7 @@ Output data：https://mega.nz/file/fRVm1T7S#SWHCbu2tkFpME3Y-Eh7LWz15aVV4yI-4U-ZA
 
 Weight data：https://mega.nz/file/2cdBULiB#boGkh154f_97hbpbFIzYHl7j7iVLh_93gAeNH46L0EQ
 
-Put the downloaded data into the specified folder, execute main.py to run and generate the result data, and evaluate.py to automate the quantitative evaluation of the data to generate the result.
+Put the downloaded data into the specified folder, execute main.py to run and generate the result data.
 
 # License
 
