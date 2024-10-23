@@ -7,7 +7,7 @@ Temporal downscaling is one of the most challenging topics in meteorological dat
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![PEP8](https://img.shields.io/badge/code%20style-pep8-orange.svg)](https://www.python.org/dev/peps/pep-0008/)
 
-'CIDGNN' is a dynamic graph neural network model capable of handling high and multivariable data. The open source data contains the neural network, test framework, sample input data, and corresponding expected output.
+TDNN is a deep neural network model based on "adaptive collaboration of flow with high degree of freedom", which can handle the task of downscaling multivariate meteorological data. Open source data includes neural networks, testing frameworks, sample input data, and corresponding expected outputs.
 
 - [System Requirements](#system-requirements)
 - [Installation Guide](#installation-guide)
@@ -17,7 +17,7 @@ Temporal downscaling is one of the most challenging topics in meteorological dat
 
 # System Requirements
 ## Hardware requirements
-`CIDGNN` requires a standard computer with enough RAM to support in-memory operations and a high-performance GPU to support fast operations on high-dimensional data.
+`TDNN` requires a standard computer with enough RAM to support in-memory operations and a high-performance GPU to support fast operations on high-dimensional data.
 
 ## Software requirements
 ### OS Requirements
@@ -26,7 +26,7 @@ This package is supported for *Windows* and *Linux*. The package has been tested
 + Linux: Ubuntu 16.04
 
 ### Python Dependencies
-`CIDGNN` mainly depends on the Python scientific stack.
+`TDNN` mainly depends on the Python scientific stack.
 
 ```
 einops==0.8.0
