@@ -1,4 +1,4 @@
-# Official open-source code of "Temporal Downscaling of Multivariate Meteorological Data Based on AdaCof with High Degree of Freedom"
+# Official open-source code of "Multivariate Meteorological Data Temporal Downscaling Based on High Freedom Dynamic Collaboration of Flows"
 
 Temporal downscaling is one of the most challenging topics in meteorological data processing research.  Traditional methods often face problems such as high computational costs and poor generalization capabilities. Video frame interpolation methods based on deep learning have provided new ideas for time downscaling of meteorological data. In this paper, a deep neural network for time downscaling of multivariate meteorological data is designed. It constructs data frames by independently estimating the kernel weights and offset vectors for each target pixel among different meteorological variables and dynamically fusing multivariate information. It generates output frames under the guidance of the feature space. Compared with other methods, the proposed model can handle a wide range of complex meteorological movements. The experimental results show that the proposed method has good performance in the composite field downscaling, with an average lead of about 57.94% and 44.41% over comparative methods in RMSE and PSNR indicators, respectively.
 
@@ -7,7 +7,7 @@ Temporal downscaling is one of the most challenging topics in meteorological dat
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![PEP8](https://img.shields.io/badge/code%20style-pep8-orange.svg)](https://www.python.org/dev/peps/pep-0008/)
 
-TDNN is a deep neural network model based on "adaptive collaboration of flow with high degree of freedom", which can handle the task of downscaling multivariate meteorological data. Open source data includes neural networks, testing frameworks, sample input data, and corresponding expected outputs.
+TDNN is a deep neural network model based on "High Freedom Dynamic Collaboration of Flows", which can handle the task of downscaling multivariate meteorological data. Open source data includes neural networks, testing frameworks, sample input data, and corresponding expected outputs.
 
 - [System Requirements](#system-requirements)
 - [Installation Guide](#installation-guide)
